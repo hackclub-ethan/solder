@@ -8,10 +8,9 @@ The more LEDs that are on the brighter it is!
 
 ## PCB
 
-![image](https://github.com/user-attachments/assets/ba926c26-8ae2-4d6c-9e71-d862c575ccd5)
+![image](https://github.com/user-attachments/assets/e7a58b21-7d18-4700-b514-f64d00a98b81)
 
-![image](https://github.com/user-attachments/assets/5a19df9a-1cc9-4d2a-b9db-a40f60a360cf)
-
+![image](https://github.com/user-attachments/assets/1177df05-bf33-4e2b-a0f8-1168b5685f7c)
 
 ## BOM
 
