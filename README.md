@@ -12,6 +12,8 @@ The more LEDs that are on the brighter it is!
 
 ![image](https://github.com/user-attachments/assets/61c9deae-ca5e-4d8f-bab1-e6048c9e33bc)
 
+![image](https://github.com/user-attachments/assets/ae8446ce-db61-4e29-a44f-e5c77d44deb3)
+
 
 ## BOM
 
