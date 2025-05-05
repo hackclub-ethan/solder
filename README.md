@@ -4,13 +4,14 @@ The more LEDs that are on the brighter it is!
 
 ## Schematic
 
-![image](https://github.com/user-attachments/assets/07269886-1f11-4c96-b7ea-583581c02b22)
+![image](https://github.com/user-attachments/assets/a9bb860f-8e88-4db1-b096-fbb35b1dea5a)
 
 ## PCB
 
-![image](https://github.com/user-attachments/assets/7d4d507b-ce68-4c62-9aff-bac67a8b060e)
+![image](https://github.com/user-attachments/assets/ba926c26-8ae2-4d6c-9e71-d862c575ccd5)
 
-![image](https://github.com/user-attachments/assets/0282c61f-4474-45bf-9896-f4efd0d62208)
+![image](https://github.com/user-attachments/assets/5a19df9a-1cc9-4d2a-b9db-a40f60a360cf)
+
 
 ## BOM
 
